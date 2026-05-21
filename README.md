@@ -3,7 +3,7 @@
 
 废了SPY/古代国安部内部法
 
-ShionWong所有东西/ScrapSPY里面的东西都遵循ScrapSPY,例如ShionKeys/,,,只有皈依法的才能生产,,,
+ShionWong所有东西/ScrapSPY里面的东西都遵循ScrapSPY,例如ShionKeys/,,,只有皈依法的才能做,,,
 
 要从#1开始看才能理解ScrapSPY
 
