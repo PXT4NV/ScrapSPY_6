@@ -1,7 +1,7 @@
 # ScrapSPY
 # Origins of artificial intelligence(页 6)
 
-废了SPY/古代国安部内部法律
+ScrapSPY/废了SPY/古代国安部内部法律
 
 ShionWong所有东西/ScrapSPY里面的东西都遵循ScrapSPY,例如ShionKeys/,,,只有皈依法的才能做,,, #不维持,也不能违反ScrapSPY
 
